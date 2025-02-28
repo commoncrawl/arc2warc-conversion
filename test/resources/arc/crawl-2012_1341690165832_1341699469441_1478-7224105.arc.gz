@@ -1,0 +1,343 @@
+WARC/1.0
+uri: filedesc://1341699469441_1478.arc.gz
+ip-address: 0.0.0.0
+archive-date: 20120707221757
+content-type: text/plain
+length: 73
+
+
+filedesc://1341699469441_1478.arc.gz 0.0.0.0 20120707221757 text/plain 73
+1 0 CommonCrawl
+URL IP-address Archive-date Content-type Archive-length
+
+http://www.littlepinktree.com/company/viking-shoes-sdn-bhd 69.89.31.69 20120524061138 text/html 33475
+HTTP/1.1 200 OK
+Date:Thu, 24 May 2012 06:13:20 GMT
+Server:Apache
+Vary:Accept-Encoding
+Connection:close
+Transfer-Encoding:chunked
+Content-Type:text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link href="/css/common.css" rel="stylesheet" type="text/css" />
+
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/css/all-ie-only.css" />
+<![endif]-->
+<script language="javascript" type="text/javascript" src="/js/jquery144.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery-hint.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery-hintcall.js"></script>
+<script language="javascript" type="text/javascript" src="/js/commonjs.js"></script>
+<script type="text/javascript" src="/js/autocomplete/jquery.js"></script>
+<script type='text/javascript' src='/js/autocomplete/jquery.bgiframe.min.js'></script>
+<script type='text/javascript' src='/js/autocomplete/jquery.ajaxQueue.js'></script>
+<script type='text/javascript' src='/js/autocomplete/thickbox-compressed.js'></script>
+<script type='text/javascript' src='/js/autocomplete/jquery.autocomplete.js'></script>
+<script type='text/javascript' src='/js/autocomplete/jquery.watermark.js'></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery.autocomplete.css" />
+<link rel="stylesheet" type="text/css" href="/css/jquery.watermark.css" />
+<script type="text/javascript">
+var cities = [
+",Kuala Lumpur",",Negeri Sembilan",",Perak",",Selangor",",Sabah",",Johor","(Junction of Church Street Ghaut and Weld Quay),Penang","(Opp Ming Sate and same row with UOB Bank ),Melaka",". Ipoh,Perak","10250,Penang","1st Floor,Kuala Lumpur","5820045,Kuala Lumpur","9009 Sandakan,Sabah","Abidjan,Johor","Air Itam,Penang","Air Keroh,Melaka","Alor Gajah,Melaka","Alor Setar,Kedah","Alor Star,Kedah","Ampang,Melaka","Ampang,Kuala Lumpur","Ampang,Selangor","Ampang selangor,Selangor","Arau,Perlis","Ayer Hitam,Johor","Bakri,Johor","Balakong,Selangor","Balik Pulau,Penang","Baling,Kedah","Bandar Baru,Selangor","Bandar Baru Bangi,Selangor","Bandar Manjalara,Kuala Lumpur","Bandar Puncak Alam,Selangor","Bandar Puteri,Selangor","Bandar Seri Alam,Johor","Bandar Sri Permaisuri,Kuala Lumpur","Bandar Sunway,Selangor","Bandar Tenggara,Johor","Bangi,Selangor","Bangsar,Kuala Lumpur","Bangsar Baru,Kuala Lumpur","Bangsar Park,Kuala Lumpur","Bangsar Utama,Kuala Lumpur","Banting,Selangor","Baru,Kuala Lumpur","Batang Berjuntai,Selangor","Batang Kali,Selangor","Batu Berendam,Melaka","Batu Caves,Selangor","Batu Caves,Kuala Lumpur","Batu Caves,Johor","Batu Feringghi,Penang","Batu Ferringhi,Penang","Batu Gajah,Perak","Batu Pahat,Johor","Bayan Baru,Penang","Bayan Lepas,Penang","BDC Building,Penang","Beaufort,Sabah","Bedong,Kedah","Belakong,Selangor","Bemban,Melaka","Beranang,Selangor","Beserah,Pahang","Besut,Terengganu","Bidor,Perak","Bintulu,Sarawak","Brickfields,Kuala Lumpur","Bukit Baru,Melaka","Bukit Beruang.,Melaka","Bukit Beruntung,Selangor","Bukit Damansara,Kuala Lumpur","Bukit Jalil,Kuala Lumpur","Bukit Jambul,Penang","Bukit Katil,Melaka","Bukit Mertajam,Penang","Bukit Pasir,Johor","Bukit Rambai,Melaka","Bukit Tengah,Penang","Burma Road,Penang","Burmah Road,Penang","Butterworth,Penang","Cameron Highlands,Pahang","Canseleri Building,Kuala Lumpur","Centre,Selangor","Chemor,Perak","Cheras,Kuala Lumpur","Cheras,Selangor","Cheras Jaya,Johor","Cyberjaya,Selangor","Daerah Gombak,Selangor","Daerah Jasin,Melaka","Damansara Heights,Kuala Lumpur","Damansara Perdana,Selangor","Dengkil,Selangor","Desa Melawati,Kuala Lumpur","Desa Pandan,Kuala Lumpur","Desa Petaling,Kuala Lumpur","Dongguan,Johor","Dungun,Terengganu","Durian Tunggal,Melaka","East Jelutong,Penang","Falim,Perak","Gelugor,Penang","George Town,Penang","Georgetown,Penang","Georgtown,Penang","Gerik,Perak","Gombak,Kuala Lumpur","Gopeng,Perak","Green Hall,Penang","Ground Floor,Kuala Lumpur","Hulu Langat,Selangor","Hulu Terengganu,Terengganu","Hutan Melintang,Perak","Ipoh,Perak","Ismail,Kuala Lumpur","Jalan Pahang,Kuala Lumpur","Jasin,Melaka","Jelutong,Penang","Jenjarom,Selangor","Jerantut,Pahang","Jitra,Kedah","Johor,Johor","Johor Bahru,Johor","Johor Bharu,Johor","Jones Road,Penang","Juru,Penang","Kajang,Johor","Kajang,Selangor","Kampung Baru,Kuala Lumpur","Kampung Pasir,Kuala Lumpur","Kamunting,Perak","Kangar,Perlis","Kapar,Selangor","Karachi,Kuala Lumpur","Kedah,Kedah","Kelana Jaya,Selangor","Kelang,Selangor","Kelantan,Kelantan","Kemaman,Terengganu","Kepala Batas,Penang","Kepong,Kuala Lumpur","Kepong,Selangor","Kepong Bahru,Kuala Lumpur","Kepong Baru,Kuala Lumpur","Kijal,Terengganu","Kl,Kuala Lumpur","KL Sentral,Kuala Lumpur","Klang,Selangor","Klang selangor,Selangor","KLCC,Kuala Lumpur","Klebang Besar,Melaka","KLIA,Selangor","Kluang,Johor","Kota Bharu,Kelantan","Kota Damansara,Selangor","Kota Damansara, Pju 5, Petaling Jaya,Selangor","Kota Kemuning,Selangor","Kota Kinabalu,Sabah","Kota Kinabalu,Johor","Kota Kinabulu,Sabah","Kota Tinggi,Johor","Kuah,Kedah","Kuala Besut,Terengganu","Kuala Kangsar,Perak","Kuala Ketil,Kedah","Kuala Langat,Selangor","Kuala Lumpur,Pahang","Kuala Lumpur,Sabah","Kuala Lumpur,Kuala Lumpur","Kuala Lumpur,Selangor","Kuala Lumpur.,Kuala Lumpur","Kuala Terengganu,Terengganu","Kuantan,Pahang","Kuching,Sarawak","Kuching Sarawak,Sarawak","Kulai,Johor","Kulim,Kedah","Kundang Ulu,Johor","Labu Besar,Kedah","Labuan,Sabah","Lahat,Perak","Langkawi,Kedah","Lebuh Bishop,Penang","Lebuh Farquhar,Penang","Lebuh Leith,Penang","Lebuh pregrave,Penang","Lenggeng,Negeri Sembilan","Lengkok Burma,Penang","Logan Road,Penang","Lok Kawi,Sabah","Lorong Burma,Penang","Lorong Macalister,Penang","Lumut,Perak","Lunas,Kedah","Macalister Road,Penang","Mambang Diawan,Johor","Masai,Johor","Masai. Johor Bahru,Johor","Matang,Perak","Medan York,Penang","Melaka,Melaka","Melaka Tengah,Melaka","Melaka.,Melaka","Menglembu,Perak","Menglembu Ipoh,Perak","Mentakab,Pahang","Merlimau,Melaka","Miri,Sarawak","Mont Kiara,Kuala Lumpur","Muar,Johor","Mukim Batu,Kuala Lumpur","Mukim Cheng,Melaka","Mukim Pedas,Negeri Sembilan","Negeri Sembilan,Negeri Sembilan","Nibng Tebal,Penang","Nibong Tebal,Penang","Nilai,Negeri Sembilan","OUG,Kuala Lumpur","P.O.Box 12448,Kuala Lumpur","P.O.Box 12490,Kuala Lumpur","Padang,Kelantan","Padang Serai,Kedah","Pagoh,Johor","Pahang,Pahang","Pandamaran,Selangor","Pandan Indah,Kuala Lumpur","Pandan Jaya,Kuala Lumpur","Pandan Perdana,Kuala Lumpur","Pangkor Island,Perak","Parit Buntar,Perak","Parit Raja,Johor","Pasir Gudang,Johor","Pasir Gudong,Johor","Pasir Puteh,Perak","Pekan Nenas,Johor","Pelabuhan Kelang,Selangor","Pelabuhan Klang,Selangor","Penang,Penang","Penang Road,Penang","Penang Street,Penang","Penang.,Penang","Perai,Penang","Perak,Perak","Perak Lane,Penang","Permas Jaya,Johor","Permatang Pauh,Penang","Permatang Tinggi,Penang","Persiaran Gurney,Penang","Persiaran Mahameru,Kuala Lumpur","Petaling,Kuala Lumpur","Petaling Jaya,Johor","Petaling Jaya,Selangor","Phase 4,Penang","Phase III,Penang","Phase IV,Penang","Phase IV,Melaka","Plaza Mahkota,Melaka","Pontain,Johor","Pontian,Johor","Port Dickson,Negeri Sembilan","Port Klang,Johor","Port Klang,Selangor","Prai,Penang","Prai P.W.,Penang","Puchomh,Johor","Puchong,Selangor","Pulai,Johor","Pulau Langkawi,Kedah","Pulau Pangkor,Perak","Pusing,Perak","Putra Nilai,Negeri Sembilan","Putrajaya,Selangor","Rawang,Selangor","Ringlet,Pahang","Sabah,Sabah","Sandakan,Sabah","Sandakan Sabah,Sabah","Sarawak,Sarawak","Sebarang Perai Tengah,Penang","Seberang Jaya,Penang","Seberang Perai,Penang","Seberang Perai Selatan,Penang","Seberang Perai Tengah,Penang","Seberang Perai Utara,Penang","Seberang Prai,Penang","Seberang Prai (T),Penang","Segamat,Johor","Segambut,Kuala Lumpur","Sekinchan,Selangor","Selama,Perak","Selangor,Johor","Selangor,Selangor","Selayang,Selangor","Selayang Baru,Selangor","Semanggol,Perak","Semenyih,Selangor","Semporna,Sabah","Senai,Johor","Senawang,Negeri Sembilan","Sentul,Kuala Lumpur","Sepang,Selangor","Seremban,Negeri Sembilan","Serendah,Selangor","Seri Kembangan,Selangor","Seri Kembangan Selangor,Selangor","Seri Setia,Selangor","Setapak,Kuala Lumpur","Setapak Jaya,Kuala Lumpur","Sg. Gadut,Negeri Sembilan","Sg. Petani,Kedah","Shah Alam,Selangor","Shah Alam,Terengganu","Sibu,Sarawak","Silibin,Perak","Simpang Ampat,Penang","Simpang Ampat Bukit Mertajam,Penang","Simpang Rengam,Johor","Sitiawan,Perak","Skudai,Johor","Sri Damansara,Kuala Lumpur","Sri Hartamas,Kuala Lumpur","Sri Kembangan,Selangor","Subang,Selangor","Subang Indah,Selangor","Subang Jaya,Selangor","Sungai Ara,Penang","Sungai Bakap,Penang","Sungai Buloh,Selangor","Sungai Choh,Selangor","Sungai Dua,Penang","Sungai Gadut,Negeri Sembilan","Sungai Jawi,Penang","Sungai Mati,Johor","Sungai Nibong,Penang","Sungai Petani,Kedah","Sungai Petani,,Kedah","Sungai. Buloh,Selangor","Sungai. Siput,Perak","Sungei Siput (N),Perak","Taiping,Perak","Taman Cheras,Kuala Lumpur","Taman Dagang,Kuala Lumpur","Taman Kemas,Johor","Taman Kepong,Kuala Lumpur","Taman Maluri,Kuala Lumpur","Taman Melawati,Kuala Lumpur","Taman Midah,Kuala Lumpur","Taman Molek,Johor","Taman OUG,Kuala Lumpur","Taman Setiawangsa,Kuala Lumpur","Tanah Rata,Pahang","Tangga Baru,Melaka","Tangga Batu,Melaka","Tangkak,Johor","Tanjong Bungah,Penang","Tanjong Kling,Melaka","Tanjong Malim,Perak","Tanjung Bungah,Penang","Tanjung Kilang,Melaka","Tanjung Kling,Melaka","Tanjung Minyak,Melaka","Tanjung Tokong,Penang","Tawau,Sabah","Telok Mas,Melaka","Telok Panglima Garang,Selangor","Teluk Intan,Perak","Teluk Mas,Melaka","Teluk Panglima Garang,Selangor","Temerluh,Pahang","Terengganu,Terengganu","Tongkang Pecah,Johor","UEP Subang Jaya,Selangor","Ulu Kinta,Perak","Ulu Langat,Selangor","Ulu Tiram,Johor","Wangsa Melawati,Kuala Lumpur","Wilayah Persekutuan,Kuala Lumpur","www.roytaekwondo.com,Penang","Xuzhou,Johor","Zhongshan,Kedah"];
+
+var tags = [
+"Abrasives","Academy","Acc","Accounting","Acetylene, Nitrogen, Oxygen, Carbon Dioxide.","Adhesives & Sealants","Advertising","Aerosols","Agriculture","Agriculture Machinery & Equipment","Agrochemicals & Pesticides","Air-Conditioners & Supplies","Airlines","Alcoholic Beverages","Alor Setar","Aluminium Ingots","Aluminium Products","Aluminum Alloys","Anti Rust","Antistatic","Apparel/Fashion/Jewellery & Accessories","Aquariums","Auto Accessories","Automation/Conveyor Systems, Handling Equipment.","Automobile","Baby","Baby Items","Balloons","Bamboo & Rattan","Bangi","Banking","Bath & Toilet Appliances","Bayan Lepas","Beans","Bearings","Bedroom Supplies","Best Usb Security Framework For Usb Drive","Birds Parks","Body Weight Management/Slimming etc","Book Stores/Shops","Bopp Laminated Woven Bag","Bottle Closures/Corks","Branding Consultancy","Bricks/Pavers/Tiles/Landscaping","Bridal/Wedding Services","Building and Construction","Building Renovation Works Contractors","Building/Infrastructure /Piling/Foundation Works","Bukit Mertajam","Buns/Cakes/Cookies/Pastries/Biscuits","Burn Virtual Cdrom In Usb Drive","Business Management Consultancy","Business Services","Butterfly Farms","Butterworth","Calibration Services","Cameron Highlands","Candles","Canned Foodstuffs","Car Care Products/Perfume","Car/Coach/Bus Rentals","Cargo Securing Equipment","Carpets/Polypropylene Yarn.","Cement & Sand/Concrete Mixes","Charcoal","Chemicals","Children Garments","Cigarette & Tobacco","Clay/Glass/Sand-based & non-metallic mineral produ","Cleanroom Services","Clinic","Coating","Cocoa Liquor/Masse/Cocoa Powder.","Coffee","Coffee Machine","College","Commercial Banks","Compressed Air Filters/ Filter Element","Computer","Computer Hardware","Computer Outsourcing","Computer Services","Condoms","Confectionery/Sweets","Construction Hardware","Construction Machinery","Construction/Civil Engineering Consultancy","Consultant Solution","Coolants","Cooling System","Courier and Shipping","Curry/Spices/Seasonings/Fragrances/Flavouring","Dairy Products/Soft Drinks.","Data Backup","Dental Care Products","Design","Diapers For Baby/Adults","Digital Ads","Domain Registration","Door Hinge","Doors/Windows & Wall Partitioning","Drawer & Door Locks/Handles/Knobs","Dried/Preserved Meat","E-Learning","Edible Oil","Education/International Schools/Universities/Colle","Electric heaters/Vacuum cleaners/parts","Electrical, Electronic Products/Air-Conditioners &","Electronic Components & Supplies","Email Hosting","Energy/Water Treatment","Engineering Products","Engines","Environmental Engineering/Products","EPS Foam/EPE Foam/EPP Foam Products.","Esd","Esd Mat","Event Management","Event Services","Excess Inventory","Fabrication/Installation of utilities pipeline.","Fasteners","Fire Protection","Firewall","Fitness Equipments/Fitness Centre","Floor Mat","Floor Mats","Food & Beverage","Freight Forwarders","Fresh Fish","Fresh Flowers","Fruits/Vegetables","Fully Qualified Foreign Banks","Furniture/Fittings & Furnishings","Gadgets Producers/Dealers","Gears/Safety Gears","General Insurance Companies","Gift Boxes & Packaging","Gifts & Crafts","Gifts/Pewter Wares","Graphic Design","Guesthouse/Budget hotels/Hostels","Hair Treatment Centres","Handbags/Wallets/Purses/Brief Cases","Health Drinks/Mineral Water/Drinking Water","Health Food","Health Supplement","Health Supplements etc","Health/Beauty/Medical Healthcare/Pharmaceutical Su","Heat Insulation/Canopies/Tents","Herbal Coffee/Tea","Home Supplies","Hose manufacturer.","Hospitality/Hotels/Resorts/Travel Agencies/Tourism","Hosting","Hot Springs","Hotels","Hotels, Johor","Hotels, Kedah","Hotels, Kelantan","Hotels, Kuala Lumpur","Hotels, Melaka","Hotels, Negeri Sembilan","Hotels, Pahang","Hotels, Penang","Hotels, Perak","Hotels, Perlis","Hotels, Sabah","Hotels, Sarawak","Hotels, Selangor","Hotels, Terengganu","Household Wares/Supplies","Hydraulic","Hydraulic Hose Crimping Machines","Hydraulic Hoses & Fittings","Hygiene Services","Industrial & Machinery","Industrial Rollers/Castor Wheels/Rubber Belting","Industrial Safety Shoes/Soles","Industrial Supplies","Interior Design","Interior Design & Build","Interior Design Consultancy","International Schools","International Studies Centre","Ipoh","Iron/Steel/Metal & Products","Islamic Banks (Local & Foreign)","Isp Provider","IT Solutions","IT, Computer Hardware & Software","Jewellery","Jig","Johor Bahru","Jumbo Bag","Kitchen Appliances","Kitchen Supplies","Klang","Klia/Lcct","Kota Kinabalu","Kota Tinggi","Kuala Terengganu","Kuantan","Labels/stickers/seal tapes/packing machines","Laminated Flooring","Land/Factory Consultancy","Langkawi","Latex gloves/Examination Gloves/ Surgical Gloves/","Laundry appliances/Supplies","Life Insurance Companies","Lights & Lighting","Lingerie","Lubricants","Luggage, Bags & Cases","Lumut","Machine knives/Brushes","Machine Logistics","Machine Mover","Machinery & Components","Major Anchor Commercial Banks","Malaysia Business Directory","Management Trading/Consultancy","Manufacturer Of Furniture","Manufacturer of Tyres/Tubes","Martial Arts","Masterbatch oribitread compound/","Material Handling Equipment Sale & Rental","Mattress/Protectors/Pilliow cases/Bedsheets etc,","Medical Healthcare Supplies","Medical, Scientific, Measuring Equipments and part","Metal Treatment","Metals & Steels","Metals Recycling","Microsoft Certified","Milk Powder/Full Cream Milk/Condensed Milk","Motor Vehicals/Parts","Motors/Automatic Controls/Gates","Mould Cleaner","Mould Release","Multimedia Design","Network","Network Management","Network Security","Newspaper Companies","Notebooks/Laptops","Novel Netware Certified","Novell Netware Certified","Nuts & Kernels","Office Supplies/Cameras/Printers/Copiers","Oils And Lubricants","Oleochemical","Online Shopping Mall","Other Foreign Banks","Packaging & Paper/Stationaries/Plastics","Packaging Solutions","Paint/Coating","Palm Oil/Oleochemical","Pangkor Island","Park Games Equipments/Toys","Partition Your Usb Drive","Patent","PDA","Pe Packaging","Pest Control Services","Pet Care","Petaling Jaya","Pets","Pharmaceutical Companies","Pharmacies","Pipe fittings","Pipe/Fittings/Storage Tanks","Plaster Products & Equipments","Plastic Containers/Pails/Cups/Kitchenwares","Plastic Injection Moulded Parts","Plastic Injection Moulds","Plastic Machinery","Plastic Products","Plastic, Acrylic and PVC Flooring Products.","Polyethylene (PE) Pipes and Fittings","Polyethylene Films/Bags/Plastic Bags & Plastic Rop","Pools","Port Dickson","Pp Woven Bag","Pri","Printing & Packaging","Printing/ Publishing/Newspapers/Design","Private Hospitals","Private Medical Laboratory","Projectors","Protect Digital Contents","Pubs","Pulai","Pumps","Putrajaya","PVC Compounds & Resins.","Rattan Furniture","Recruit","Redang","Refined Sugar and Related Products.","Refrigerators & Freezers","Remote Data Backup","Renovation","Reovation","Rewards Program","Roofing Materials/Industrial Ducting/Piping","Rubber","Rubber Latex Threads","Rubber Mat","Rubber Products","Safety Footwear","Sandakan","Screws/Fasterners","Sculptures/Environmental Products","Seals/Stickers Labels/Hot-Stamping","Security & Protection","Semiconductor","Server & WorkStation","Shoes/Laces","Skincare/Haircare/Perfumery/Footcare etc","Slewing Bearing","Snack Foods","Software Development & Package","Sport Equipments & Accessories","Sports & Entertainment","Spray System","Springs","Stationeries","Subang Jaya","Subang/Sepang","Sungai Petani","Supermakets/Hypermarkets","Supply","System Integrator","Taiping","Tanjong Bungah/Batu Ferringhi","Tarpaulins/Canvass Covers/Beach Umbrellas","Tea/Coffee","Team Building","Technology Solutions Consultancy","Teflon Industrial Coating, Teflon Fluoropolymers,","Telecommunications/GPS Navigation Systems","Tempered Glass/Heat Soak Glass","Textiles & Fabrics","Textiles/Fabrics & Leather Products","Theme parks/Tropical Fruits Farm","Timber/Wood Flooring & Plank","Timepieces, Eyewear","Tinting","Trademark","Transport Equipments/Components & Accessories","Transportation/Shipping/Couriers","Travel Agencies","Travel Bureau for Students","Tropical Live Fish","University","Valves","Vegetable Oil","Vegetables Fresh/Frozen","Vet","Washroom Supplies/Air Freshener/Soap-Dispensers","Waste Management Consultancy","Water Filter","Water heaters/Filters/Solar hot water systems","Web Design & Development","Web Hosting","Website Design","Wicker Furniture","Wire Mesh","Wiring Harness for Automative Industry","Wood & Wood Products","Wooden & Panel Furniture","Zoos"];
+
+$().ready(function() {
+	$("#searchplace").autocomplete(cities);
+	$("#searchplace2").autocomplete(cities);
+	$("#searchkeyword").autocomplete(tags);
+	$("#searchkeyword2").autocomplete(tags);	
+});
+
+// ** WATERMARK *************
+var watermarktext1 =  "company name, products or services";
+var watermarktext2 =  "city, state or postcode";
+
+$(function () {
+	$("#search1 .headertextbox").watermark(watermarktext1, "watermark2");
+	$("#search1 .headertextbox2").watermark(watermarktext2, "watermark2");	
+	$("#search2 .footersearchtextbox").watermark(watermarktext1, "watermark2");
+	$("#search2 .footersearchtextbox2").watermark(watermarktext2, "watermark2");	
+});
+
+function OnSubmitForm()
+{
+	var search1 = document.getElementById("searchkeyword").value;
+	var len1 = document.getElementById("searchkeyword").value.length;
+	if(( search1 == watermarktext1) || (len1== 0))
+	{   
+	   document.getElementById("searchkeyword").focus();
+	   document.getElementById("emptysearch").style.display="inline" ;
+	   return false;
+	}else{  
+	   return true;
+	};
+}
+
+function OnSubmitForm2()
+{
+	var search1 = document.getElementById("searchkeyword2").value;
+	var len1 = document.getElementById("searchkeyword2").value.length;
+	if(( search1 == watermarktext1) || (len1== 0))
+	{   
+	   document.getElementById("searchkeyword2").focus();
+	   document.getElementById("emptysearch2").style.display="inline" ;
+	   return false;
+	}else{  
+	   return true;
+	};
+}
+
+</script>	
+	<title>Viking Shoes Sdn Bhd - Malaysian Business Directory</title>
+	<meta name="Description" CONTENT="Viking Shoes Sdn Bhd - Contact Person: Mr Tommy Loke Kam Thong. Export Market: Singapore.">
+	<meta name="Keywords" CONTENT="Industrial Supplies, Safety Footwear">
+	<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAArySy396QT39v-aRPglOxahTpTC0xvDjj6BmUL0WrRtgQwkVADhRqdWjNY5Uu3VdP-iloIEgM1QhIRg" type="text/javascript"></script>
+</head>
+
+<BODY onload="LoadMapSearchControl();" onunload="GUnload();">
+<div id="ads1">
+
+</div>	<div id="header">
+		<div id="headercontent" class="width">
+			<div id="headercontentright">
+			<h1>Your Malaysian Business Directory</h1>
+			<ul>                    	
+				<li><img src="/images/but-internationalsites.png" alt="International Site" /></li>			
+			<li><a href="/accountlogin.php"><img src="/images/but-login.png" alt="Login" /></a></li>
+			
+			</ul>
+			</div>
+			<div id="logo"></div>
+		</div>
+	</div>
+
+	<div id="searchheader">
+		<div id="searchheadercontent" class="width">
+			<form  id="search1" action="/companiesproductsplace/search/" autocomplete="off" onSubmit="return OnSubmitForm();">				
+			<div id="emptysearch" style="color: Red; display: none;">Sorry, you forgot to enter a search term</div>
+			<ul>
+				<li>
+				<label for="searchkeyword">I am looking for</label>
+				<input type="text" name="searchkeyword" value="" id="searchkeyword" class="headertextbox"/>
+				</li>
+			</ul>
+			
+			<ul>
+				<li>
+				<label for="searchplace">I need it at this place</label>
+				<input type="text" name="searchplace" value="" id="searchplace" class="headertextbox2"/>
+				</li>
+			</ul>
+			
+			<input type="image" src="/images/but-headersearch.png"  alt="Search Now">
+			</form>            
+		</div>
+	</div>
+	
+	<div id="businesssignup">
+		<div id="businesssignupcontent" class="width">
+			<p><a href="/accountregister.php">or find out what Little Pink Tree can do for you</a></p>
+			<a href="/accountregister.php"><img src="/images/but-addmybusiness.png" alt="Add My Business Now" /></a> 
+			<img src="/images/addbusiness-title.png" alt="Add My Business Now" />   
+			   
+		</div>
+	</div>
+	<div id="maincontainer" class="width">
+		<div id="leftproductsservices">
+<div id="ads2">
+		<script type='text/javascript'><!--//<![CDATA[
+           var m3_u = (location.protocol=='https:'?'https://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php':
+		   'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php');
+           var m3_r = Math.floor(Math.random()*99999999999);
+           if (!document.MAX_used) document.MAX_used = ',';
+           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+           document.write ("?zoneid=2");
+           document.write ('&amp;cb=' + m3_r);
+           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+           document.write ("&amp;loc=" + escape(window.location));
+           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+           if (document.context) document.write ("&context=" + escape(document.context));
+           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+           document.write ("'><\/scr"+"ipt>");
+        //]]>--></script><noscript><a href='http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ck.php?n=af84bb40&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src=
+        'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/avw.php?zoneid=2&amp;n=af84bb40' border='0' alt='' /></a></noscript>
+
+</div>		</div>
+		<div id="pagecontent">
+<div id="ads3">
+
+		<script type='text/javascript'><!--//<![CDATA[
+           var m3_u = (location.protocol=='https:'?'https://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php':
+		   'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php');
+           var m3_r = Math.floor(Math.random()*99999999999);
+           if (!document.MAX_used) document.MAX_used = ',';
+           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+           document.write ("?zoneid=3");
+           document.write ('&amp;cb=' + m3_r);
+           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+           document.write ("&amp;loc=" + escape(window.location));
+           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+           if (document.context) document.write ("&context=" + escape(document.context));
+           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+           document.write ("'><\/scr"+"ipt>");
+        //]]>--></script><noscript><a href='http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ck.php?n=a9ce5ebb&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src=
+        'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/avw.php?zoneid=3&amp;n=a9ce5ebb' border='0' alt='' /></a></noscript>
+
+</div>
+			<div id="companydetail"> 
+				
+				<h2>Viking Shoes Sdn Bhd</h2>
+				<p>6 &amp; 8, Dataran Kledang 2, Kawasan Perindustrian Chandan Raya , Menglembu, 31450 , Perak, Malaysia</p>
+				
+				<ul id="companydetailtitle">
+					<li>Telephone:</li>
+					<li></li>
+					<li>Fax:</li>                        
+					<li>Website:</li>
+					<li class="companyemail">Email:</li>
+				</ul>
+				
+				<ul id="companydetailinfo">
+					<li class="companyphone">+605-2828960</li>
+					<li class="companymobile"></li>
+					<li class="companyfax">+605-2828967</li>                    	
+					<li class="companywebsite"><a href="http://www.vikingshoes.com" rel="nofollow" target="_blank">http://www.vikingshoes.com</a></li>
+					<li class="companyemail"><a href="/sendemail.php?company=viking-shoes-sdn-bhd"><img src="/images/but-contactus.png" alt="Contact Company"/></a></li>
+				</ul>
+			</div>
+			<script type="text/javascript">
+			<!--
+			function LoadMapSearchControl() {
+			  if (GBrowserIsCompatible()) {
+				var WINDOW_HTML = '<div style="width: 210px; padding-right: 10px"><a href="http://www.vikingshoes.com" target="_blank">Viking Shoes Sdn Bhd</a><BR>Phone: +605-2828960<BR>Fax: +605-2828967</div>';
+				var map = new GMap2(document.getElementById("mapsearch"));
+				map.addControl(new GSmallMapControl());
+				map.addControl(new GMapTypeControl());
+				map.setCenter(new GLatLng(4.571077600733886, 101.05060458183289), 16);	
+				var marker = new GMarker(new GLatLng(4.571077600733886, 101.05060458183289));
+				map.addOverlay(marker);
+				GEvent.addListener(marker, "click", function() {
+					marker.openInfoWindowHtml(WINDOW_HTML);
+				});
+				marker.openInfoWindowHtml(WINDOW_HTML);	
+			  }
+			}
+			//-->
+			</script>		
+			<div id="companymap">
+				<h3>Company Location Map</h3>
+				<div id="mapsearch" style="width: 560px; height: 330px"> 
+				<span style="color:#676767;font-size:11px;margin:10px;padding:4px;">Loading...</span>
+				</div>
+			</div>
+			<div id="companyprofile">
+				<h3>Company Profile</h3>
+				<p>Viking Shoes Sdn Bhd - Contact Person: Mr Tommy Loke Kam Thong. Export Market: Singapore.</p>
+			</div>  
+			<div id="productsservices">
+				<h3>Products & Services</h3>
+				<p>Manufacturer of Industrial Safety Shoes &amp; Boots, Casual Choes.</p>
+			</div>  
+			<div id="companyrelatedcategory">
+				<h3>Related Categories</h3>
+				<ul>
+					<li><a href="/productservices/industrial-supplies">Industrial Supplies</a>.</li>
+					<li><a href="/productservices/safety-footwear">Safety Footwear</a></li>
+				</ul>
+			</div>
+<div id="ads5">
+
+		<script type='text/javascript'><!--//<![CDATA[
+           var m3_u = (location.protocol=='https:'?'https://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php':
+		   'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ajs.php');
+           var m3_r = Math.floor(Math.random()*99999999999);
+           if (!document.MAX_used) document.MAX_used = ',';
+           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+           document.write ("?zoneid=5");
+           document.write ('&amp;cb=' + m3_r);
+           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+           document.write ("&amp;loc=" + escape(window.location));
+           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+           if (document.context) document.write ("&context=" + escape(document.context));
+           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+           document.write ("'><\/scr"+"ipt>");
+        //]]>--></script><noscript><a href='http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/ck.php?n=a6e6dd54&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src=	
+        'http://www.littlepinktree.com/littlepinktree/adserver/www/delivery/avw.php?zoneid=5&amp;n=a6e6dd54' border='0' alt='' /></a></noscript>
+
+</div>
+		</div>
+	</div>
+
+	<div id="alphabetlisting">
+		<div id="alphabetlistingcontent" class="width">
+		<h4>
+			<img src="/images/main-listing-title.png" alt="LittlePinkTree Malaysian Business Directory by Alphabetical Order" />
+		</h4>
+		
+		<ul><b>By Company Name : </b>
+			<li><a href="/companieslistings/nonalpha/1">#</a></li>
+			<li><a href="/companieslistings/A/1">A</a></li><li><a href="/companieslistings/B/1">B</a></li><li><a href="/companieslistings/C/1">C</a></li><li><a href="/companieslistings/D/1">D</a></li><li><a href="/companieslistings/E/1">E</a></li><li><a href="/companieslistings/F/1">F</a></li><li><a href="/companieslistings/G/1">G</a></li><li><a href="/companieslistings/H/1">H</a></li><li><a href="/companieslistings/I/1">I</a></li><li><a href="/companieslistings/J/1">J</a></li><li><a href="/companieslistings/K/1">K</a></li><li><a href="/companieslistings/L/1">L</a></li><li><a href="/companieslistings/M/1">M</a></li><li><a href="/companieslistings/N/1">N</a></li><li><a href="/companieslistings/O/1">O</a></li><li><a href="/companieslistings/P/1">P</a></li><li><a href="/companieslistings/Q/1">Q</a></li><li><a href="/companieslistings/R/1">R</a></li><li><a href="/companieslistings/S/1">S</a></li><li><a href="/companieslistings/T/1">T</a></li><li><a href="/companieslistings/U/1">U</a></li><li><a href="/companieslistings/V/1">V</a></li><li><a href="/companieslistings/W/1">W</a></li><li><a href="/companieslistings/X/1">X</a></li><li><a href="/companieslistings/Y/1">Y</a></li><li><a href="/companieslistings/Z/1">Z</a></li>		</ul>
+		
+		<ul><b>By Products & Services : </b>
+			<li><a href="/productslistings/nonalpha/1">#</a></li>
+			<li><a href="/productslistings/A/1">A</a></li><li><a href="/productslistings/B/1">B</a></li><li><a href="/productslistings/C/1">C</a></li><li><a href="/productslistings/D/1">D</a></li><li><a href="/productslistings/E/1">E</a></li><li><a href="/productslistings/F/1">F</a></li><li><a href="/productslistings/G/1">G</a></li><li><a href="/productslistings/H/1">H</a></li><li><a href="/productslistings/I/1">I</a></li><li><a href="/productslistings/J/1">J</a></li><li><a href="/productslistings/K/1">K</a></li><li><a href="/productslistings/L/1">L</a></li><li><a href="/productslistings/M/1">M</a></li><li><a href="/productslistings/N/1">N</a></li><li><a href="/productslistings/O/1">O</a></li><li><a href="/productslistings/P/1">P</a></li><li><a href="/productslistings/Q/1">Q</a></li><li><a href="/productslistings/R/1">R</a></li><li><a href="/productslistings/S/1">S</a></li><li><a href="/productslistings/T/1">T</a></li><li><a href="/productslistings/U/1">U</a></li><li><a href="/productslistings/V/1">V</a></li><li><a href="/productslistings/W/1">W</a></li><li><a href="/productslistings/X/1">X</a></li><li><a href="/productslistings/Y/1">Y</a></li><li><a href="/productslistings/Z/1">Z</a></li>		</ul>
+		</div>
+	</div>
+	<div id="footer">
+		<div id="footercontent" class="width">            
+		<form id="search2"  action="/companiesproductsplace/search2/" autocomplete="off" onSubmit="return OnSubmitForm2();">
+		<ul id="footersearch">
+			<input type="image" src="/images/but-footersearch.png" class="footersearchbutton" alt="">
+			<li>
+				<input type="text" name="searchkeyword2" value="" id="searchkeyword2" class="footersearchtextbox"/>
+			</li>
+			
+			<li>            		
+				<input type="text" name="searchplace2" value="" id="searchplace2" class="footersearchtextbox2"/>
+			</li>
+		</ul>
+		</form>
+		<div id="emptysearch2" style="color: Red; display: none;">Sorry, you forgot to enter a search term</div>
+		<div id="footeraddmybusiness">
+			<a href="/accountregister.php"><img src="/images/but-addmybusiness.png" alt="Add My Business Now" /></a>
+		</div>
+		
+		<ul id="footerlist">
+			<li><a href="">About Littlepinktree</a> .</li>
+			<li><a href="">Contact Littlepinktree</a> . </li>
+			<li><a href="">Add My Business</a> . </li>
+			<li><a href="">Privacy Policy</a> . </li>
+			<li><a href="">Terms of Use</a> . </li>
+			<li><a href="">FAQ</a></li>                
+		</ul>
+		&copy; Copyright Littlepinktree.com 2007 - 2012		</div>
+	</div>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5879317-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+ 
+<div id="ads6">
+
+</div></body></html>           	
+   
+
+
