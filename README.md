@@ -196,7 +196,16 @@ Metadata stored in HTTP headers of ARC records
 - identified page encoding
   - ARC: in HTTP header `x-commoncrawl-DetectedCharset`
   - WARC: in [WARC metadata record](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#metadata)
-- ...?
+- further crawler-specific artifical HTTP headers:
+  - `x_commoncrawl_FetchTimestamp`
+  - `x_commoncrawl_HostFP`
+  - `x_commoncrawl_OriginalURL`
+  - `x_commoncrawl_URLFP`
+  - `x_commoncrawl_CrawlNo`
+  - `x_commoncrawl_ParseSegmentId`
+  - `x_commoncrawl_Signature`
+  - ...?
+
 
 
 ## Required Rewriting of HTTP Headers
