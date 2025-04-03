@@ -36,8 +36,9 @@ after some modifications and work-arounds were made.
 
 Mostly open questions are
 - the conversion and transfer of metadata from ARC to WARC, both on the record and file level ("warcinfo" record)
-- collection metadata stored in HTTP headers
+- crawl/fetch metadata stored in HTTP headers
 - and the required rewriting of HTTP headers
+- whether to convert file by file or to group 10 ARC files into one WARC to meet the [1 GB WARC files size recommendation](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#annex-c-informative-warc-file-size-and-name-recommendations)) (100 MB for ARC)
 
 
 ## References and Documentation
