@@ -34,6 +34,11 @@ ARC data was indexed using [warcio](https://github.com/webrecorder/warcio)
 and [PyWB](https://pywb.readthedocs.io/en/latest/). The indexing succeeded
 after some modifications and work-arounds were made.
 
+Mostly open questions are
+- the conversion and transfer of metadata from ARC to WARC, both on the record and file level ("warcinfo" record)
+- collection metadata stored in HTTP headers
+- and the required rewriting of HTTP headers
+
 
 ## References and Documentation
 
@@ -168,3 +173,43 @@ WARC_FILE=test/output/warc/$(basename $arc_file .arc.gz).warc.gz
 - `java -jar jwarc-0.31.1.jar validate --verbose $WARC`
 - `warc-tiny verify $WARC`
 
+
+## ARC and WARC Metadata
+
+- file-level metadata
+  - [warcinfo record](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#warcinfo)
+  - cf. <https://groups.google.com/g/warc-tools/c/YKInCZg2BGw>
+  - field mappings from ARC `filedesc` to `warcinfo`
+  - ARC-to-WARC conversion metadata
+    - see [warc-specifications#52](https://github.com/iipc/warc-specifications/issues/52) "WARC-Conversion-Software and WARC-Conversion-Command fields"
+
+Metadata stored in HTTP headers of ARC records
+- crawler content limit / truncated payload
+  - [WARC-Truncated header](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#warc-truncated)
+  - cf. <https://commoncrawl.org/errata/content-is-truncated>
+  - poorly documented for CCF's ARC crawls
+    - <https://groups.google.com/d/topic/common-crawl/hQTRnWahcHA/discussion>
+    - 2 MiB or 500 kiB?
+    - marked by HTTP header `x-commoncrawl-ContentTruncated` in ARC files
+      - values: `TruncatedInDownload` and `TruncatedInInflate` (can be combined)
+- identified page encoding
+  - ARC: in HTTP header `x-commoncrawl-DetectedCharset`
+  - WARC: in [WARC metadata record](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/#metadata)
+- ...?
+
+
+## Required Rewriting of HTTP Headers
+
+CCF's ARC and WARC files store the payload with content and transfer encodings removed.
+However, in the ARC files the HTTP headers `Content-Encoding` and `Transfer-Encoding` are preserved, e.g.
+```
+Content-Encoding:gzip
+Transfer-Encoding:chunked
+```
+
+This was also the case for CCF WARC files written in 2013 – 2016/2018 and caused troubles with WARC parsers trying to decode the content or transfer encoding:
+- [Common Crawl saves gzipped body in extracted form](https://groups.google.com/g/common-crawl/c/XiLLXX1KSUs/m/anuZq8FCCgAJ), fixed in [commoncrawl/nutch@3551eb6](https://github.com/commoncrawl/nutch/commit/3551eb6dbb7f7152a13d2e4eb0f8eb6014dc8252)
+- finally addressed in 2018 ([August 2018 crawl](https://commoncrawl.org/blog/august-2018-crawl-archive-now-available)):
+  - the original fields `Content-Encoding`, `Transfer-Encoding` and `Content-Length` are preserved using the prefix `X-Crawler-`
+  - the length of the payload after decoding is saved in a new `Content-Length` header
+- see also: [warc-specifications#22](https://github.com/iipc/warc-specifications/issues/22) "Clarify whether Transfer-Encoding can or should be preserved"
